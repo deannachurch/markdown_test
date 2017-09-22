@@ -1,3 +1,17 @@
 # Hello World
 
 This is a test markdown document. The first line (that begins with a hash sign) marks a header. I should probably just put some Ipsum Lorem here.
+
+Let's make a change!
+
+Here are some additional changes. I've recently written a fun song called *Everybody loves Rmarkdown* and it is **topping** the charts.
+
+## Results
+
+*We needed two spaces
+*Is this correct now?
+*Super confused on list etiquette
+
+### Okay, I think I've got it
+
+[here's my top hit](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
